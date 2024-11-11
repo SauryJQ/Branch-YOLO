@@ -6,7 +6,6 @@ An Efficient Object Detector for Thin structure objects like Pantograph
 
 
 TSLPD. (a)-(e) are the normal images, (g)-(i) are the augmented images. 
-
 (g) Overcoat augment, (h) RandomFog augment, (i) LowBrightness augment
 
 
