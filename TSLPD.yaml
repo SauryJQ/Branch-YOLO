@@ -1,0 +1,10 @@
+# dataset path
+train: D:\PyCharm\Code\ultralytics-main\data\TSD\Aug\images\train
+val: D:\PyCharm\Code\ultralytics-main\data\TSD\Aug\images\val
+test: D:\PyCharm\Code\ultralytics-main\data\TSD\Aug\images\val
+
+# number of classes
+nc: 2
+
+# class names
+names: ['HighPantograph', 'LowPantograph']
